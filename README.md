@@ -29,6 +29,12 @@ Tip: Exclude pseudo scientific stuff, if it’s not boring enough it may not be 
 - Now skim through the bibliography section and find and explore the paper that look most exciting to you. 
 - Once you identify a good author, you may want to go through their other papers. (search online)
 
+## Step 5 - Iterate freely over you whole life
+
+- Take your time
+- Put aside to read later (download on your phone)
+- Use your enthusiasm to guide when to read
+
 ## What about bad papers?
 
 That's more advanced. Look at the actual experiments. If it's a survey of 17 students that need to accomplish a task using or not using a technique, it's scientific on the surface but I will not believe it strongly.
